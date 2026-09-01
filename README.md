@@ -9,3 +9,7 @@
 ## Learnings
 
 - [react] useState doesn't have to just take a static default value, you can specify a function to get it
+
+## Helpful
+
+- [audio] Tutorial and package https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/
